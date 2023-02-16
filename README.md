@@ -1,1 +1,1 @@
-# React-image-carousel
+# React-image-carousel-slider
